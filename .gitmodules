@@ -1,0 +1,42 @@
+[submodule "ext_NRF52_hw_models"]
+	path = ext_NRF52_hw_models
+	url = https://github.com/BabbleSim/ext_NRF52_hw_models.git
+[submodule "ext_2G4_channel_Indoorv1"]
+	path = ext_2G4_channel_Indoorv1
+	url = https://github.com/BabbleSim/ext_2G4_channel_Indoorv1.git
+[submodule "ext_2G4_channel_multiatt"]
+	path = ext_2G4_channel_multiatt
+	url = https://github.com/BabbleSim/ext_2G4_channel_multiatt.git
+[submodule "ext_libCryptov1"]
+	path = ext_libCryptov1
+	url = https://github.com/BabbleSim/ext_libCryptov1.git
+[submodule "ext_2G4_phy_v1"]
+	path = ext_2G4_phy_v1
+	url = https://github.com/BabbleSim/ext_2G4_phy_v1.git
+[submodule "ext_2G4_device_burst_interferer"]
+	path = ext_2G4_device_burst_interferer
+	url = https://github.com/BabbleSim/ext_2G4_device_burst_interferer.git
+[submodule "ext_2G4_device_WLAN_actmod"]
+	path = ext_2G4_device_WLAN_actmod
+	url = https://github.com/BabbleSim/ext_2G4_device_WLAN_actmod.git
+[submodule "ext_zephyr_app_builder"]
+	path = ext_zephyr_app_builder
+	url = https://github.com/BabbleSim/ext_zephyr_app_builder.git
+[submodule "ext_device_EDTT_bridge"]
+	path = ext_device_EDTT_bridge
+	url = https://github.com/BabbleSim/ext_device_EDTT_bridge.git
+[submodule "ext_2G4_libPhyComv1"]
+	path = ext_2G4_libPhyComv1
+	url = https://github.com/BabbleSim/ext_2G4_libPhyComv1.git
+[submodule "ext_2G4_channel_NtNcable"]
+	path = ext_2G4_channel_NtNcable
+	url = https://github.com/BabbleSim/ext_2G4_channel_NtNcable.git
+[submodule "ext_2G4_modem_magic"]
+	path = ext_2G4_modem_magic
+	url = https://github.com/BabbleSim/ext_2G4_modem_magic.git
+[submodule "ext_2G4_modem_BLE_simple"]
+	path = ext_2G4_modem_BLE_simple
+	url = https://github.com/BabbleSim/ext_2G4_modem_BLE_simple.git
+[submodule "ext_2G4_device_playback"]
+	path = ext_2G4_device_playback
+	url = https://github.com/BabbleSim/ext_2G4_device_playback.git
