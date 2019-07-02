@@ -26,7 +26,7 @@ $(error BSIM_COMPONENTS_PATH (${BSIM_COMPONENTS_PATH}) does not point to a folde
 endif
 export BSIM_COMPONENTS_PATH
 
-COMPONENTS:=$(shell ls ${BSIM_COMPONENTS_PATH} --hide=common)
+COMPONENTS:=$(shell ls ${BSIM_COMPONENTS_PATH} --hide=common --hide=README.md)
 
 DEPENDFILES:=$(addprefix components/,$(addsuffix /Depends,${COMPONENTS}))
 
